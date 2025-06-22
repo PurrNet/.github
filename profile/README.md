@@ -9,8 +9,7 @@ We’re more than just a networking library — we’re building the complete fo
 
 - **PurrNet (Core)** – Open-source Unity networking built for performance and flexibility  
 - **PurrVoice** – Drop-in voice chat with real-time filtering and audio control *(in development)*
-- **Prediction** – Client-side prediction *(in development)*  
-- **PurrNet Services** – *(Coming Soon)* Cloud support, relay, subscriptions, project tools  
+- **PurrDiction** – Client-side prediction *(in development)*  
 
 ---
 
