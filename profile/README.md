@@ -1,12 +1,31 @@
-## Hi there 👋
+# 🐾 PurrNet
 
-<!--
+**PurrNet** is a modular, high-performance networking ecosystem for Unity.  
+We’re more than just a networking library — we’re building the complete foundation for multiplayer games.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔧 What We Offer
+
+- **PurrNet (Core)** – Open-source Unity networking built for performance and flexibility  
+- **PurrVoice** – Drop-in voice chat with real-time filtering and audio control *(in development)*
+- **Prediction** – Client-side prediction *(in development)*  
+- **PurrNet Services** – *(Coming Soon)* Cloud support, relay, subscriptions, project tools  
+
+---
+
+## 💡 Why PurrNet?
+
+- Clean code – Built by game developers, for game developers  
+- Fast iteration – Minimal boilerplate, maximum control  
+- Modular – Use only what you need without losing flexibility
+- Open source
+
+---
+
+## 🌍 Join Us
+
+PurrNet is growing fast — join the community, contribute, or just follow along:
+
+- [Discord](https://discord.gg/HnNKdkq9ta)  
+- [Documentation](https://purrnet.gitbook.io/docs/)  
